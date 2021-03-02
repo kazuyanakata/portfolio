@@ -49,5 +49,5 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
    
 **4. 既存の静的ページの模写**  
    　サイトへのリンクは[こちら](http://3.112.194.206/entry/input.php)  
-   　元としたサイトへのリンクは[こちら](https://www.nri.com/jp/company/whats/story06)
+   (元としたサイトへのリンクは[こちら](https://www.nri.com/jp/company/whats/story06))  
    　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-html/tree/master/nri)  
