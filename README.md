@@ -40,14 +40,14 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
    　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-php-db)  
    
 **2. 気象情報サイト**  
-   　サイトへのリンクは[こちら](http://3.112.194.206/entry/input.php)  
+   　サイトへのリンクは[こちら](https://kazuyanakata.github.io/quelcode-js/js-weather/js-weather.html)  
    　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-js)  
    
 **3. オリジナルのレスポンシブ対応サイト**  
-   　サイトへのリンクは[こちら](http://3.112.194.206/entry/input.php)  
+   　サイトへのリンクは[こちら](https://kazuyanakata.github.io/quelcode-html/kaguya/home.html)  
    　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-html/tree/master/kaguya)  
    
 **4. 既存の静的ページの模写**  
-   　サイトへのリンクは[こちら](http://3.112.194.206/entry/input.php)  
-   (元としたサイトへのリンクは[こちら](https://www.nri.com/jp/company/whats/story06))  
+   　サイトへのリンクは[こちら](https://kazuyanakata.github.io/quelcode-html/nri/index.html)  
+   　(元としたサイトへのリンクは[こちら](https://www.nri.com/jp/company/whats/story06))  
    　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-html/tree/master/nri)  
