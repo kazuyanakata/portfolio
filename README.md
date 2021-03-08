@@ -24,7 +24,7 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 - WEB予約システム予約情報入力機能(状況に応じて画面の出し分けを行う)
 - jQueryを用いたモーダル画面を作成
 
-<ER図>  
+＜ER図＞  
 
 ![チーム開発ER図](https://user-images.githubusercontent.com/68310528/110269705-9fdb2e00-8007-11eb-9236-dc2723b83306.png)
 
