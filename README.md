@@ -25,6 +25,7 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 - jQueryを用いたモーダル画面を作成
 
 <ER図>  
+
 ![チーム開発ER図](https://user-images.githubusercontent.com/68310528/110269705-9fdb2e00-8007-11eb-9236-dc2723b83306.png)
 
 ## ②学習の流れ
