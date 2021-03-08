@@ -1,21 +1,21 @@
 ## ①スキル  
-＜言語/フレームワーク＞  
+**＜言語/フレームワーク＞**  
 
 　HTML5/CSS3/PHP7.2/CakePHP3/JavaScript/jQuery/MySQL5.7/Linux  
 
-＜環境＞  
+**＜環境＞**  
 
 - MAMP
 - Docker  
 - AWS：VPC/IAM/EC2/RDS/S3  
 
-＜非機能部分＞
+**＜非機能部分＞**
 
 - セキュリティ：XSS/SQLインジェクション/CSRF/セッションハイジャック/HTTPヘッダ・インジェクション...  
 - ソフトウェアテスト：ブラックボックステスト/ホワイトボックステスト  
 - ネットワーク：OSI参照モデル/TCP/IP/NAT・NAPT/スイッチ/ハブ/ルータ/暗号化...  
 
-＜ツール＞  
+**＜ツール＞**  
 
 　Jira/Confluence/Adobe XD/Git/Github/OWASP ZAP/VirtualBox  
 
@@ -25,11 +25,11 @@
 サイトへのリンクは[こちら](https://www.yahoo.co.jp/)(ログイン時のメールアドレス：sample01@gmail.com / パスワード：123456)  
 Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tree/develop)  
   
-＜概要＞  
+**＜概要＞**  
   
 映画館サイト及びWEB予約システムの作成・レビュー・テストを3人のチーム開発(スクラム開発)で行った  
   
-＜ツール/環境/言語＞
+**＜ツール/環境/言語＞**
 - ツール  
   Jira/Confluence/Adobe XD/Git/GitHub
 - 環境  
@@ -37,7 +37,7 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 - 言語  
   CakePHP3/CSS3/JavaScript/jQuery  
 
-＜担当部分＞
+**＜担当部分＞**
 - Dockerを用いた環境構築
 - TOPページ(上映映画一覧表示機能・画像スライドショー機能)
 - 非同期通信を用いた日別上映スケジュール表示機能
@@ -45,13 +45,17 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 - WEB予約システム予約情報入力機能(状況に応じて画面の出し分けを行う)
 - jQueryを用いたモーダル画面を作成
 
-＜ER図＞  
+**＜ER図＞**  
 
 ![チーム開発ER図](https://user-images.githubusercontent.com/68310528/110269705-9fdb2e00-8007-11eb-9236-dc2723b83306.png)
 
 ## ③学習の流れ
+**＜学習記録(全体)＞**  
+2020年7月下旬〜2021年3月上旬までの総学習記録  
+総学習時間：約1650時間  
 <img width="1193" alt="トグル" src="https://user-images.githubusercontent.com/68310528/110282175-5f88a980-8021-11eb-84d9-b6008bc16434.png">  
 
+**＜学習記録(月別)＞**  
 ![就活ポートフォリオ 001](https://user-images.githubusercontent.com/68310528/110286296-08d29e00-8028-11eb-93df-713d68010150.jpeg)
 ![就活ポートフォリオ 002](https://user-images.githubusercontent.com/68310528/110286316-11c36f80-8028-11eb-8b96-fec1c0534993.jpeg)
 ![就活ポートフォリオ 003](https://user-images.githubusercontent.com/68310528/110286324-14be6000-8028-11eb-9dd9-d2f0c6c3c98d.jpeg)
