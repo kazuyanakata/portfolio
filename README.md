@@ -4,11 +4,11 @@
 サイトへのリンクは[こちら](https://www.yahoo.co.jp/)(ログイン時のメールアドレス：sample01@gmail.com / パスワード：123456)  
 Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tree/develop)  
   
-<概要>  
+＜概要＞  
   
 映画館サイト及びWEB予約システムの作成・レビュー・テストを3人のチーム開発(スクラム開発)で行った  
   
-<ツール/環境/言語>
+＜ツール/環境/言語＞
 - ツール  
   Jira/Confluence/Adobe XD/Git/GitHub
 - 環境  
@@ -16,7 +16,7 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 - 言語  
   CakePHP3/CSS3/JavaScript/jQuery  
 
-<担当部分>
+＜担当部分＞
 - Dockerを用いた環境構築
 - TOPページ(上映映画一覧表示機能・画像スライドショー機能)
 - 非同期通信を用いた日別上映スケジュール表示機能
