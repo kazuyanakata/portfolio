@@ -49,6 +49,14 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 
 ![チーム開発ER図](https://user-images.githubusercontent.com/68310528/110269705-9fdb2e00-8007-11eb-9236-dc2723b83306.png)
 
+**＜画面遷移図＞**  
+
+![画面遷移図](https://user-images.githubusercontent.com/68310528/110290992-bd6fbe00-802e-11eb-8d92-749725c05059.png)
+
+**＜チーム開発の様子＞**  
+
+![チーム開発の様子 001](https://user-images.githubusercontent.com/68310528/110291128-e98b3f00-802e-11eb-982c-ee4be7a56185.jpeg)
+
 ## ③学習の流れ
 **＜学習記録(全体)＞**  
 2020年7月下旬〜2021年3月上旬までの総学習記録  
