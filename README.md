@@ -52,13 +52,14 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 ## ③学習の流れ
 <img width="1193" alt="トグル" src="https://user-images.githubusercontent.com/68310528/110282175-5f88a980-8021-11eb-84d9-b6008bc16434.png">  
 
-![就活ポートフォリオ(最新) 001](https://user-images.githubusercontent.com/68310528/109761341-7bf8a080-7c33-11eb-8ba1-91e3fc7744d7.jpeg)
-![就活ポートフォリオ(最新) 002](https://user-images.githubusercontent.com/68310528/109761440-81ee8180-7c33-11eb-9fd7-a39d4d4aa1f5.jpeg)
-![就活ポートフォリオ(最新) 003](https://user-images.githubusercontent.com/68310528/109761496-84e97200-7c33-11eb-9f7f-71464bda41a7.jpeg)
-![就活ポートフォリオ(最新) 004](https://user-images.githubusercontent.com/68310528/109761532-874bcc00-7c33-11eb-8620-89bad5bbd078.jpeg)
-![就活ポートフォリオ(最新) 005](https://user-images.githubusercontent.com/68310528/109761557-887cf900-7c33-11eb-9ea9-961a1b943f26.jpeg)
-![就活ポートフォリオ(最新) 006](https://user-images.githubusercontent.com/68310528/109761589-8a46bc80-7c33-11eb-9971-091b6678ce85.jpeg)
-![就活ポートフォリオ(最新) 007](https://user-images.githubusercontent.com/68310528/109761611-8c108000-7c33-11eb-9775-c9bced139898.jpeg)  
+![就活ポートフォリオ 001](https://user-images.githubusercontent.com/68310528/110286296-08d29e00-8028-11eb-93df-713d68010150.jpeg)
+![就活ポートフォリオ 002](https://user-images.githubusercontent.com/68310528/110286316-11c36f80-8028-11eb-8b96-fec1c0534993.jpeg)
+![就活ポートフォリオ 003](https://user-images.githubusercontent.com/68310528/110286324-14be6000-8028-11eb-9dd9-d2f0c6c3c98d.jpeg)
+![就活ポートフォリオ 004](https://user-images.githubusercontent.com/68310528/110286327-15ef8d00-8028-11eb-8661-e6db3e9cef1f.jpeg)
+![就活ポートフォリオ 005](https://user-images.githubusercontent.com/68310528/110286334-17b95080-8028-11eb-9afb-b3ea4d563547.jpeg)
+![就活ポートフォリオ 006](https://user-images.githubusercontent.com/68310528/110286337-19831400-8028-11eb-86fa-bd00c7536a1b.jpeg)
+![就活ポートフォリオ 007](https://user-images.githubusercontent.com/68310528/110286343-1be56e00-8028-11eb-9d17-9de90816a000.jpeg)
+  
 
 ## ④その他作成したもの
 **1. フォーム画面及びフォーム内容に対する管理画面**  
