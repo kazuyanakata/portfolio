@@ -1,4 +1,25 @@
-## ①製作物
+## ①スキル  
+＜言語/フレームワーク＞  
+
+　HTML5/CSS3/PHP7.2/CakePHP3/JavaScript/jQuery/MySQL5.7/Linux  
+
+＜環境＞  
+
+- MAMP
+- Docker  
+- AWS：VPC/IAM/EC2/RDS/S3  
+
+＜非機能部分＞
+
+- セキュリティ：XSS/SQLインジェクション/CSRF/セッションハイジャック/HTTPヘッダ・インジェクション...  
+- ソフトウェアテスト：ブラックボックステスト/ホワイトボックステスト  
+- ネットワーク：OSI参照モデル/TCP/IP/NAT・NAPT/スイッチ/ハブ/ルータ/暗号化...  
+
+＜ツール＞  
+
+　Jira/Confluence/Adobe XD/Git/Github/OWASP ZAP/VirtualBox  
+
+## ②製作物
 **映画館サイト及びWEB予約システム**  
 <img src="https://user-images.githubusercontent.com/68310528/109629371-16e77100-7b87-11eb-84bf-812cd228fc3a.png" width="300px"> <img src="https://user-images.githubusercontent.com/68310528/109629638-6168ed80-7b87-11eb-99aa-347562ec098f.png" width="330px">  
 サイトへのリンクは[こちら](https://www.yahoo.co.jp/)(ログイン時のメールアドレス：sample01@gmail.com / パスワード：123456)  
@@ -28,7 +49,9 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 
 ![チーム開発ER図](https://user-images.githubusercontent.com/68310528/110269705-9fdb2e00-8007-11eb-9236-dc2723b83306.png)
 
-## ②学習の流れ
+## ③学習の流れ
+<img width="1193" alt="トグル" src="https://user-images.githubusercontent.com/68310528/110282175-5f88a980-8021-11eb-84d9-b6008bc16434.png">  
+
 ![就活ポートフォリオ(最新) 001](https://user-images.githubusercontent.com/68310528/109761341-7bf8a080-7c33-11eb-8ba1-91e3fc7744d7.jpeg)
 ![就活ポートフォリオ(最新) 002](https://user-images.githubusercontent.com/68310528/109761440-81ee8180-7c33-11eb-9fd7-a39d4d4aa1f5.jpeg)
 ![就活ポートフォリオ(最新) 003](https://user-images.githubusercontent.com/68310528/109761496-84e97200-7c33-11eb-9f7f-71464bda41a7.jpeg)
@@ -37,7 +60,7 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 ![就活ポートフォリオ(最新) 006](https://user-images.githubusercontent.com/68310528/109761589-8a46bc80-7c33-11eb-9971-091b6678ce85.jpeg)
 ![就活ポートフォリオ(最新) 007](https://user-images.githubusercontent.com/68310528/109761611-8c108000-7c33-11eb-9775-c9bced139898.jpeg)  
 
-## ③その他作成したもの
+## ④その他作成したもの
 **1. フォーム画面及びフォーム内容に対する管理画面**  
    　サイト(フォーム画面)へのリンクは[こちら](http://3.112.194.206/entry/input.php)(ユーザ：sample / パスワード：JA7H9e3ntn)  
    　サイト(管理画面)へのリンクは[こちら](http://3.112.194.206/admin/)(ユーザ：sample / パスワード：JA7H9e3ntn)  
