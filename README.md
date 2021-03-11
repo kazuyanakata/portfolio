@@ -21,7 +21,7 @@
 
 ## ②製作物
 **映画館サイト及びWEB予約システム**  
-<img src="https://user-images.githubusercontent.com/68310528/109629371-16e77100-7b87-11eb-84bf-812cd228fc3a.png" width="300px"> <img src="https://user-images.githubusercontent.com/68310528/109629638-6168ed80-7b87-11eb-99aa-347562ec098f.png" width="330px">  
+![就活ポートフォリオ(チーム開発)](https://user-images.githubusercontent.com/68310528/110870860-a66feb00-8310-11eb-9385-09671170ce65.jpeg)  
 サイトへのリンクは[こちら](http://13.231.187.107:10380/main/top)(ログイン時のメールアドレス：sample01@gmail.com / パスワード：123456)  
 Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tree/develop)  
   
@@ -70,7 +70,7 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 ![就活ポートフォリオ 004](https://user-images.githubusercontent.com/68310528/110286327-15ef8d00-8028-11eb-8661-e6db3e9cef1f.jpeg)
 ![就活ポートフォリオ 005](https://user-images.githubusercontent.com/68310528/110286334-17b95080-8028-11eb-9afb-b3ea4d563547.jpeg)
 ![就活ポートフォリオ 006](https://user-images.githubusercontent.com/68310528/110286337-19831400-8028-11eb-86fa-bd00c7536a1b.jpeg)
-![就活ポートフォリオ 007](https://user-images.githubusercontent.com/68310528/110286343-1be56e00-8028-11eb-9d17-9de90816a000.jpeg)
+![就活ポートフォリオ 007](https://user-images.githubusercontent.com/68310528/110870931-c2738c80-8310-11eb-98e3-43e7823745dd.jpeg)
   
 
 ## ④その他作成したもの
