@@ -23,7 +23,7 @@
 ## ②製作物
 **映画館サイト及びWEB予約システム**  
 ![就活ポートフォリオ(チーム開発)](https://user-images.githubusercontent.com/68310528/110870860-a66feb00-8310-11eb-9385-09671170ce65.jpeg)  
-サイトへのリンクは[こちら](http://13.231.187.107:10380/main/top)(ログイン時のメールアドレス：sample01@gmail.com / パスワード：123456)  
+サイトへのリンクは[こちら](http://35.72.170.250:10380/main/top)(ログイン時のメールアドレス：sample01@gmail.com / パスワード：123456)  
 Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tree/develop)  
   
 **＜概要＞**  
