@@ -8,7 +8,7 @@
 
 - MAMP
 - Docker  
-- AWS：VPC/IAM/EC2/RDS/S3  
+- AWS：VPC/IAM/EC2/RDS/S3/Route53  
 
 **＜非機能部分＞**
 
@@ -18,7 +18,7 @@
 
 **＜ツール＞**  
 
-　Jira/Confluence/Adobe XD/Git/Github/OWASP ZAP/VirtualBox  
+　Jira/Confluence/Back log/Adobe XD/Git/Github/OWASP ZAP/VirtualBox  
 
 ## ②製作物
 **映画館サイト及びWEB予約システム**  
