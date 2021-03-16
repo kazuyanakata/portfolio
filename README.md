@@ -76,8 +76,8 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 
 ## ④その他作成したもの
 **1. フォーム画面及びフォーム内容に対する管理画面**  
-   　サイト(フォーム画面)へのリンクは[こちら](http://3.112.194.206/entry/input.php)(ユーザ：sample / パスワード：JA7H9e3ntn)  
-   　サイト(管理画面)へのリンクは[こちら](http://3.112.194.206/admin/)(ユーザ：sample / パスワード：JA7H9e3ntn)  
+   　サイト(フォーム画面)へのリンクは[こちら](https://form.k-nakata.com/entry/input.php)  
+   　サイト(管理画面)へのリンクは[こちら](https://form.k-nakata.com/admin/index.php)  
    　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-php-db)  
    
 **2. 気象情報サイト**  
