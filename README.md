@@ -49,7 +49,7 @@ GitHubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 
 **＜ER図＞**  
 
-![チーム開発ER図](https://user-images.githubusercontent.com/68310528/110269705-9fdb2e00-8007-11eb-9236-dc2723b83306.png)
+![チーム開発ER図最新](https://user-images.githubusercontent.com/68310528/111944733-a72c2c80-8b1b-11eb-9d92-d39639a506f7.png)
 
 **＜画面遷移図＞**  
 
