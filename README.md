@@ -2,13 +2,14 @@
 ## ①スキル  
 **＜言語/フレームワーク＞**  
 
-　HTML5/CSS3/PHP7.2/CakePHP3/JavaScript/jQuery/MySQL5.7/Linux  
+　HTML5/CSS3/PHP7.2/CakePHP3/JavaScript/jQuery/MySQL5.7 
 
 **＜環境＞**  
 
 - MAMP
 - Docker  
 - AWS：VPC/IAM/EC2/RDS/S3/Route53  
+- Linux  
 
 **＜非機能部分＞**
 
