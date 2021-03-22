@@ -18,13 +18,13 @@
 
 **＜ツール＞**  
 
-　Jira/Confluence/Back log/Adobe XD/Git/Github/OWASP ZAP/VirtualBox  
+　Jira/Confluence/Backlog/Adobe XD/Git/GitHub/OWASP ZAP/VirtualBox  
 
 ## ②製作物
 **映画館サイト及びWEB予約システム**  
 ![就活ポートフォリオ(チーム開発)](https://user-images.githubusercontent.com/68310528/110870860-a66feb00-8310-11eb-9385-09671170ce65.jpeg)  
 サイトへのリンクは[こちら](https://quel-cinemas.k-nakata.com/main/top)(ログイン時のメールアドレス：sample01@gmail.com / パスワード：123456)  
-Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tree/develop)  
+GitHubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tree/develop)  
   
 **＜概要＞**  
   
@@ -78,17 +78,17 @@ Githubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
 **1. フォーム画面及びフォーム内容に対する管理画面**  
    　サイト(フォーム画面)へのリンクは[こちら](https://form.k-nakata.com/entry/input.php)  
    　サイト(管理画面)へのリンクは[こちら](https://form.k-nakata.com/admin/index.php)  
-   　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-php-db)  
+   　GitHubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-php-db)  
    
 **2. 気象情報サイト**  
    　サイトへのリンクは[こちら](https://kazuyanakata.github.io/quelcode-js/js-weather/js-weather.html)  
-   　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-js)  
+   　GitHubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-js)  
    
 **3. オリジナルのレスポンシブ対応サイト**  
    　サイトへのリンクは[こちら](https://kazuyanakata.github.io/quelcode-html/kaguya/home.html)  
-   　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-html/tree/master/kaguya)  
+   　GitHubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-html/tree/master/kaguya)  
    
 **4. 既存の静的ページの模写**  
    　サイトへのリンクは[こちら](https://kazuyanakata.github.io/quelcode-html/nri/index.html)  
    　(元としたサイトへのリンクは[こちら](https://www.nri.com/jp/company/whats/story06))  
-   　Githubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-html/tree/master/nri)  
+   　GitHubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-html/tree/master/nri)  
