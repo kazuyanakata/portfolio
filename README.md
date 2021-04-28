@@ -76,12 +76,12 @@ GitHubへのリンクは[こちら](https://github.com/labotinc/codegym-team5/tr
   
 
 ## ④その他作成したもの
-**1. フォーム画面及びフォーム内容に対する管理画面**  
+**1. フォーム画面及びフォーム内容に対する管理画面(CMS)**  
    　サイト(フォーム画面)へのリンクは[こちら](https://form.k-nakata.com/entry/input.php)  
    　サイト(管理画面)へのリンクは[こちら](https://form.k-nakata.com/admin/index.php)  
    　GitHubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-php-db)  
    
-**2. 気象情報サイト**  
+**2. 天気APIを用いた気象情報サイト**  
    　サイトへのリンクは[こちら](https://kazuyanakata.github.io/quelcode-js/js-weather/js-weather.html)  
    　GitHubへのリンクは[こちら](https://github.com/kazuyanakata/quelcode-js)  
    
